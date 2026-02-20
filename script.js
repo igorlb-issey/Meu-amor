@@ -2,10 +2,10 @@
 
 const phrases = [
   "momentos memoráveis",
-  "sorrisos não guardados",
-  "sentimentos não ditos",
-  "ações não tomadas",
-  "lembranças para a vida"
+  "sorrisos da Helloá",
+  "Backup de ???",
+  "Atitudes sei la oque",
+  "lembranças pra vida"
 ];
 
 const typingText = document.getElementById("typing-text");
@@ -167,4 +167,5 @@ document.addEventListener("DOMContentLoaded", () => {
     modal.style.display = "none";
     document.body.style.overflow = "";
   }
+
 });
